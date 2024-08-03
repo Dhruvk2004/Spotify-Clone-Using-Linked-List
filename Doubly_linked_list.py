@@ -1,3 +1,5 @@
+# This file contatins the logic for the Doubly linked List 
+
 class Song:
     def __init__(self, name, artist, address):
         self.next = None

@@ -1,3 +1,4 @@
+# This is the main file with Window creation and Linked List implementation
 import pygame
 from customtkinter import *
 from PIL import Image
